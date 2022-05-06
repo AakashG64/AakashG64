@@ -7,9 +7,9 @@
 - You can follow me on various social sites that are listed down below with their links.
 
 ## Linkedin - https://www.linkedin.com/in/aakashg64/
-## Instagram - 
-## Facebook - 
-## Twitter - 
+## Instagram - https://www.instagram.com/aakashg640/
+## Facebook - https://www.facebook.com/aakashg64/
+## Twitter - https://twitter.com/aakashgarg640
 ## Kaggle - https://www.kaggle.com/aakashgarg64
 ## HackerRank - https://www.hackerrank.com/aakashgarg640
 
