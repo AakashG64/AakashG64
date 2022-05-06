@@ -6,12 +6,12 @@
 
 - You can follow me on various social sites that are listed down below with their links.
 
-## Linkedin - 
+## Linkedin - https://www.linkedin.com/in/aakashg64/
 ## Instagram - 
 ## Facebook - 
 ## Twitter - 
-## Kaggle -
-## HackerRank - 
+## Kaggle - https://www.kaggle.com/aakashgarg64
+## HackerRank - https://www.hackerrank.com/aakashgarg640
 
 <!---
 AakashG64/AakashG64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
